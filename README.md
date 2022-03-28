@@ -1,4 +1,4 @@
-# SE3860 Fall2021 Template
+# SE3860_Fall2021 
 
 ## Description
 This Snake game is recreated for the University of Wisconsin - Platteville SE3860 class. Using C# .NET Framework Development, my team used Graphics Class to draw the snake and apple while using LinkedList to make sure the snake body is following the snakehead. The purpose of this project is to understand the reengineering process and use different concepts to maintain the software while working in a small group with Scrum methodology.
